@@ -1,0 +1,9 @@
+#bin files
+bin/
+*.class
+
+#editor files
+.settings
+
+#db2jcc license file
+db2jcc_license_cu.jar
